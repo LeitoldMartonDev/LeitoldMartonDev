@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./assets/ML.svg" alt="Header" width="100%" />
+</p>
 
 
 <p align="center">👋Hello, I am Márton. 👋<br>🖥 Currently picking up programming skills next to Geography and GIS. 🖥</p>
