@@ -107,7 +107,7 @@
           </circle>
         
     
-         <text text-anchor="middle" alignment-baseline="middle" x="50%" y="50%" class="text" style="fill:#78286F;" stroke="#287831" stroke-width="1" >Márton Leitold</text>
+         <text text-anchor="middle" alignment-baseline="middle" x="50%" y="50%" class="text" style="fill:#78286F;" stroke="#none" stroke-width="1" >Márton Leitold</text>
         
       </svg>
     
